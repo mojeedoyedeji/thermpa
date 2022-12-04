@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/thermpa/precache-manifest.ba9cd6669210cb3a0e9c66bd7c13927a.js"
+  "/thermpa/precache-manifest.bcf86b5e30e03c9e50db5433ce251bb4.js"
 );
 
 workbox.clientsClaim();
